@@ -100,7 +100,7 @@ This repo contains all the projects I worked on as a student at the Brainster Pr
 
 Some of my projects are already live. So feel free to check them out on the following links below.
 
-- [Project 01 - Brainster Labs](https://github.com/bokonastovski/Projects/tree/Project01-BrainsterLabs)
 - [Project 02 - Safe Blink](https://github.com/bokonastovski/Projects/tree/Project02-SafeBlink)
 - [Hackaton 01 - Sava Osiguruvanje](https://github.com/bokonastovski/Projects/tree/Hackathon01-SavaOsiguruvanje)
 - [Hackaton 02 - Larger.world](https://github.com/bokonastovski/Projects/tree/Hackathon02-Larger.world)
+- [Hackathon 03 - Sparkasse Bank](https://github.com/bokonastovski/Projects/tree/Hackathon03-SparkasseBank)
