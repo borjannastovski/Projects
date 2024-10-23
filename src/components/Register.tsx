@@ -29,8 +29,9 @@ const Register = () => {
           <button className="email-btn">Продолжи со овој email</button>
         </Link>
         <p className="terms">
-          Со кликнување на 'Продолжи со Google/Email', се согласувате со нашите{" "}
-          <span>Услови на користење</span> и <span>Политика за приватност</span>
+          Со кликнување на &apos;Продолжи со Google/Email&apos;, се согласувате
+          со нашите <span>Услови на користење</span> и{" "}
+          <span>Политика за приватност</span>
         </p>
         <div className="check">
           <input type="checkbox" />

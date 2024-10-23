@@ -11,7 +11,7 @@ const EventPageIntro = ({ eventData }: Props) => {
   return (
     <section className="event-intro">
       <h1>{eventData.type}</h1>
-      <h2>тема: "{eventData.title}"</h2>
+      <h2>тема: &quot;{eventData.title}&quot;</h2>
       <div className="content">
         <div className="left">
           <h3>Опис:</h3>
