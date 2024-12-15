@@ -1,0 +1,30 @@
+/* styles/globals.css */
+@import "@fontsource/poppins/400.css"; /* Normal weight */
+@import "@fontsource/poppins/600.css"; /* Bold weight */
+/* styles/globals.css */
+@import "@fontsource/roboto/400.css"; /* Normal weight */
+@import "@fontsource/roboto/700.css"; /* Bold weight */
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #0f294a;
+}
+
+body {
+  background: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
